@@ -1,0 +1,37 @@
+{
+  "name": "get-skole-aar",
+  "description": "Get current, next or previous schoolyear",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.3.1"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/*.js",
+    "coverage": "tap test/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install && node setup.js"
+  },
+  "keywords": [
+    "Telemark fylkeskommune",
+    "Skoleår"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/get-skole-aar.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/get-skole-aar/issues"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.8",
+    "standard": "^6.0.7",
+    "tap": "^5.7.0"
+  }
+}
