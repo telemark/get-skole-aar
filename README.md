@@ -3,6 +3,8 @@
 [![Code Climate](https://codeclimate.com/github/telemark/get-skole-aar/badges/gpa.svg)](https://codeclimate.com/github/telemark/get-skole-aar)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # get-skole-aar
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/get-skole-aar.svg)](https://greenkeeper.io/)
 Returns school year
 
 ## Installation
