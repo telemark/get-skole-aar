@@ -30,8 +30,8 @@
     "url": "http://github.com/telemark/get-skole-aar/issues"
   },
   "devDependencies": {
-    "coveralls": "^2.11.8",
-    "standard": "^6.0.7",
-    "tap": "^5.7.0"
+    "coveralls": "2.13.3",
+    "standard": "6.0.8",
+    "tap": "5.8.0"
   }
 }
