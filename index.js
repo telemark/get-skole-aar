@@ -1,5 +1,3 @@
-'use strict'
-
 function getSchoolYear (dato) {
   var date = dato ? new Date(dato) : new Date()
   var month = date.getMonth() + 1
