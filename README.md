@@ -3,6 +3,10 @@
 [![Code Climate](https://codeclimate.com/github/telemark/get-skole-aar/badges/gpa.svg)](https://codeclimate.com/github/telemark/get-skole-aar)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+# Repository moved to: [vtfk/get-skole-aar](https://github.com/vtfk/get-skole-aar)
+
+----
+
 # get-skole-aar
 
 Returns school year
